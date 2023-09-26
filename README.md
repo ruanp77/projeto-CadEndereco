@@ -11,7 +11,13 @@
 ![image](imagem/talacep.png)
 
 ## 📝 Descrição
-Este projeto consiste em uma tela de cadastro de endereço, com preenchimento automatico só com o CEP:
+Este projeto consiste em uma tela de cadastro de endereço, com preenchimento automatico no qual solicita:
+* CEP
+* Rua 
+* número 
+* Bairro
+* cidade
+* estado
 
 # :hammer:⚙️ Funcionalidades do projeto
 
