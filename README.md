@@ -8,8 +8,6 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
-![image](img/telacep.png)
-
 ## 📝 Descrição
 Este projeto consiste em uma tela de cadastro de endereço, na qual se solicita:
 * CEP
