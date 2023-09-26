@@ -11,13 +11,8 @@
 ![image](imagem/talacep.png)
 
 ## 📝 Descrição
-Este projeto consiste em uma tela de cadastro de endereço, na qual se solicita:
-* CEP
-* ENDEREÇO
-* NÚMERO
-* BAIRRO
-* CIDADE
-* ESTADO
+Este projeto consiste em uma tela de cadastro de endereço, com preenchimento automatico só com o CEP:
+
 # :hammer:⚙️ Funcionalidades do projeto
 
 - `1-Formulário de preenchimento`: Uma tela de cadastro de endereço geralmente inclui campos para os usuários inserirem informações, como nome CEP, endereço, cidade, numero, estado entre outros.
