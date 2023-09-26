@@ -8,11 +8,8 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
-<<<<<<< HEAD
 ![image](imagem/talacep.png)
 
-=======
->>>>>>> e9c95729e3e6440d8b1deb31c7937e3af08248d7
 ## 📝 Descrição
 Este projeto consiste em uma tela de cadastro de endereço, com preenchimento automatico só com o CEP:
 
