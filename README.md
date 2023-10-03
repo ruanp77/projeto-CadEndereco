@@ -8,7 +8,7 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
-![image](imagem/talacep.png)
+![image](imagem/GIF%20CEP.gif)
 
 ## 📝 Descrição
 Este projeto consiste em uma tela de cadastro de endereço, com preenchimento automatico no qual solicita:
