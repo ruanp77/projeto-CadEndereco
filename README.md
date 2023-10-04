@@ -32,9 +32,11 @@ Este projeto consiste em uma tela de cadastro de endereço, com preenchimento au
 
 - GitHub  
 
-- HTML  
+- HTML5
 
-- CSS  
+- CSS3
+
+- JavaScript3
 
 - Vs Code   
 
